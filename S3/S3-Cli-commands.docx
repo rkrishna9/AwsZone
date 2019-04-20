@@ -1,3 +1,4 @@
 aws s3 ls s3://bucketname
 aws s3 cp s3://buctketname/filename
 aws s3 cp s3://bucketname/directory-name --recursive
+
